@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yUSnnqENF2BiFrihdlxYJ4BY7gocYOopZnngkf3FrjKkDHthOYHwV1Ye25vzfbfXE/w6oifS/l/LJQ4QjVoS7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Khalil Gulraiz\\source\\repos\\RestaurantOrderingSystem\\Restaurant.Infrastructure\\Restaurant.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Khalil Gulraiz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Khalil Gulraiz\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Khalil Gulraiz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
