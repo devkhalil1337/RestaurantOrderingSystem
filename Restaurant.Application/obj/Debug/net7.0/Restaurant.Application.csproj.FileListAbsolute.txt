@@ -1,0 +1,16 @@
+C:\Users\Khalil Gulraiz\source\repos\RestaurantOrderingSystem\Restaurant.Application\bin\Debug\net7.0\Restaurant.Application.deps.json
+C:\Users\Khalil Gulraiz\source\repos\RestaurantOrderingSystem\Restaurant.Application\bin\Debug\net7.0\Restaurant.Application.dll
+C:\Users\Khalil Gulraiz\source\repos\RestaurantOrderingSystem\Restaurant.Application\bin\Debug\net7.0\Restaurant.Application.pdb
+C:\Users\Khalil Gulraiz\source\repos\RestaurantOrderingSystem\Restaurant.Application\bin\Debug\net7.0\Restaurant.Core.dll
+C:\Users\Khalil Gulraiz\source\repos\RestaurantOrderingSystem\Restaurant.Application\bin\Debug\net7.0\Restaurant.Core.pdb
+C:\Users\Khalil Gulraiz\source\repos\RestaurantOrderingSystem\Restaurant.Application\obj\Debug\net7.0\Restaurant.Application.csproj.AssemblyReference.cache
+C:\Users\Khalil Gulraiz\source\repos\RestaurantOrderingSystem\Restaurant.Application\obj\Debug\net7.0\Restaurant.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khalil Gulraiz\source\repos\RestaurantOrderingSystem\Restaurant.Application\obj\Debug\net7.0\Restaurant.Application.AssemblyInfoInputs.cache
+C:\Users\Khalil Gulraiz\source\repos\RestaurantOrderingSystem\Restaurant.Application\obj\Debug\net7.0\Restaurant.Application.AssemblyInfo.cs
+C:\Users\Khalil Gulraiz\source\repos\RestaurantOrderingSystem\Restaurant.Application\obj\Debug\net7.0\Restaurant.Application.csproj.CoreCompileInputs.cache
+C:\Users\Khalil Gulraiz\source\repos\RestaurantOrderingSystem\Restaurant.Application\obj\Debug\net7.0\Restaurant.Application.sourcelink.json
+C:\Users\Khalil Gulraiz\source\repos\RestaurantOrderingSystem\Restaurant.Application\obj\Debug\net7.0\Restaura.8ED4ADA1.Up2Date
+C:\Users\Khalil Gulraiz\source\repos\RestaurantOrderingSystem\Restaurant.Application\obj\Debug\net7.0\Restaurant.Application.dll
+C:\Users\Khalil Gulraiz\source\repos\RestaurantOrderingSystem\Restaurant.Application\obj\Debug\net7.0\refint\Restaurant.Application.dll
+C:\Users\Khalil Gulraiz\source\repos\RestaurantOrderingSystem\Restaurant.Application\obj\Debug\net7.0\Restaurant.Application.pdb
+C:\Users\Khalil Gulraiz\source\repos\RestaurantOrderingSystem\Restaurant.Application\obj\Debug\net7.0\ref\Restaurant.Application.dll
