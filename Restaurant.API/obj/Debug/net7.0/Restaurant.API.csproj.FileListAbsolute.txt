@@ -81,3 +81,4 @@ C:\Users\Khalil Gulraiz\source\repos\RestaurantOrderingSystem\Restaurant.API\obj
 C:\Users\Khalil Gulraiz\source\repos\RestaurantOrderingSystem\Restaurant.API\obj\Debug\net7.0\Restaurant.API.pdb
 C:\Users\Khalil Gulraiz\source\repos\RestaurantOrderingSystem\Restaurant.API\obj\Debug\net7.0\Restaurant.API.genruntimeconfig.cache
 C:\Users\Khalil Gulraiz\source\repos\RestaurantOrderingSystem\Restaurant.API\obj\Debug\net7.0\ref\Restaurant.API.dll
+C:\Users\Khalil Gulraiz\source\repos\RestaurantOrderingSystem\Restaurant.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
