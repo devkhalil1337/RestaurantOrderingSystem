@@ -13,10 +13,14 @@ namespace Restaurant.API.Controllers
             return Ok("Im logged in");
         }
 
-        [Authorize(Roles = "Admin")]
+//        [Authorize(Roles = "Admin")]
         [HttpGet("admin-data")]
         public IActionResult GetAdminData()
         {
+            if(true)
+            {
+                throw new Exception("Test error");
+            }
             return Ok("Only Admin can access this.");
         }
 

@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
+using Restaurant.API.Middlewares;
 using Restaurant.Application.Interfaces;
 using Restaurant.Infrastructure.Data;
 using Restaurant.Infrastructure.Services;
@@ -47,9 +48,12 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
+// Global Exception Middleware
+app.UseMiddleware<ExceptionMiddleware>();
 app.UseHttpsRedirection();
 
+// JWT Auth Middleware
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
