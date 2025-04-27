@@ -4,7 +4,10 @@ using Microsoft.IdentityModel.Tokens;
 using Restaurant.API.Middlewares;
 using Restaurant.Application.Interfaces;
 using Restaurant.Infrastructure.Data;
+using Restaurant.Infrastructure.MappingProfiles;
+using Restaurant.Infrastructure.Repositories;
 using Restaurant.Infrastructure.Services;
+using AutoMapper;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -22,6 +25,7 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<IJwtService, JwtService>();
 
+
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
     {
@@ -38,7 +42,11 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     });
 
 builder.Services.AddScoped<IUserService, UserService>();
+builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddScoped<IProductService, ProductService>();
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
+builder.Services.AddAutoMapper(typeof(ProductProfile));
 
 var app = builder.Build();
 
