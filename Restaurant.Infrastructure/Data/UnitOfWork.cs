@@ -7,12 +7,14 @@ namespace Restaurant.Infrastructure.Data
         private readonly RestaurantDbContext _context;
 
         public IProductRepository Products { get; }
-
+        public ICategoryRepository Category { get; }
         public UnitOfWork(RestaurantDbContext context,
-                          IProductRepository productRepository)
+                          IProductRepository productRepository,
+                          ICategoryRepository category)
         {
             _context = context;
             Products = productRepository;
+            Category = category;
         }
 
         public async Task<int> SaveChangesAsync()

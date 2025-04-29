@@ -1,0 +1,386 @@
+Folder PATH listing
+Volume serial number is 7C89-8C22
+C:.
+³   .gitignore
+³   dotnet
+³   project-structure.txt
+³   README.md
+³   RestaurantOrderingSystem.sln
+³   
+ÃÄÄÄ.github
+³   ÀÄÄÄworkflows
+ÃÄÄÄRestaurant.API
+³   ³   appsettings.Development.json
+³   ³   appsettings.json
+³   ³   Program.cs
+³   ³   Restaurant.API.csproj
+³   ³   Restaurant.API.csproj.user
+³   ³   
+³   ÃÄÄÄbin
+³   ³   ÀÄÄÄDebug
+³   ³       ÀÄÄÄnet7.0
+³   ³           ³   appsettings.Development.json
+³   ³           ³   appsettings.json
+³   ³           ³   AutoMapper.dll
+³   ³           ³   AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+³   ³           ³   Azure.Core.dll
+³   ³           ³   Azure.Identity.dll
+³   ³           ³   Humanizer.dll
+³   ³           ³   Microsoft.AspNetCore.Authentication.JwtBearer.dll
+³   ³           ³   Microsoft.AspNetCore.OpenApi.dll
+³   ³           ³   Microsoft.Bcl.AsyncInterfaces.dll
+³   ³           ³   Microsoft.Data.SqlClient.dll
+³   ³           ³   Microsoft.EntityFrameworkCore.Abstractions.dll
+³   ³           ³   Microsoft.EntityFrameworkCore.Design.dll
+³   ³           ³   Microsoft.EntityFrameworkCore.dll
+³   ³           ³   Microsoft.EntityFrameworkCore.Relational.dll
+³   ³           ³   Microsoft.EntityFrameworkCore.SqlServer.dll
+³   ³           ³   Microsoft.Extensions.Configuration.Abstractions.dll
+³   ³           ³   Microsoft.Extensions.Configuration.Binder.dll
+³   ³           ³   Microsoft.Extensions.Configuration.dll
+³   ³           ³   Microsoft.Extensions.Configuration.FileExtensions.dll
+³   ³           ³   Microsoft.Extensions.Configuration.Json.dll
+³   ³           ³   Microsoft.Extensions.DependencyModel.dll
+³   ³           ³   Microsoft.Extensions.FileProviders.Abstractions.dll
+³   ³           ³   Microsoft.Extensions.FileProviders.Physical.dll
+³   ³           ³   Microsoft.Extensions.FileSystemGlobbing.dll
+³   ³           ³   Microsoft.Extensions.Primitives.dll
+³   ³           ³   Microsoft.Identity.Client.dll
+³   ³           ³   Microsoft.Identity.Client.Extensions.Msal.dll
+³   ³           ³   Microsoft.IdentityModel.Abstractions.dll
+³   ³           ³   Microsoft.IdentityModel.JsonWebTokens.dll
+³   ³           ³   Microsoft.IdentityModel.Logging.dll
+³   ³           ³   Microsoft.IdentityModel.Protocols.dll
+³   ³           ³   Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+³   ³           ³   Microsoft.IdentityModel.Tokens.dll
+³   ³           ³   Microsoft.OpenApi.dll
+³   ³           ³   Microsoft.SqlServer.Server.dll
+³   ³           ³   Microsoft.Win32.SystemEvents.dll
+³   ³           ³   Mono.TextTemplating.dll
+³   ³           ³   Restaurant.API.deps.json
+³   ³           ³   Restaurant.API.dll
+³   ³           ³   Restaurant.API.exe
+³   ³           ³   Restaurant.API.pdb
+³   ³           ³   Restaurant.API.runtimeconfig.json
+³   ³           ³   Restaurant.Application.dll
+³   ³           ³   Restaurant.Application.pdb
+³   ³           ³   Restaurant.Core.dll
+³   ³           ³   Restaurant.Core.pdb
+³   ³           ³   Restaurant.Infrastructure.dll
+³   ³           ³   Restaurant.Infrastructure.pdb
+³   ³           ³   Swashbuckle.AspNetCore.Swagger.dll
+³   ³           ³   Swashbuckle.AspNetCore.SwaggerGen.dll
+³   ³           ³   Swashbuckle.AspNetCore.SwaggerUI.dll
+³   ³           ³   System.CodeDom.dll
+³   ³           ³   System.Configuration.ConfigurationManager.dll
+³   ³           ³   System.Drawing.Common.dll
+³   ³           ³   System.IdentityModel.Tokens.Jwt.dll
+³   ³           ³   System.IO.Pipelines.dll
+³   ³           ³   System.Memory.Data.dll
+³   ³           ³   System.Runtime.Caching.dll
+³   ³           ³   System.Security.Cryptography.ProtectedData.dll
+³   ³           ³   System.Security.Permissions.dll
+³   ³           ³   System.Text.Encodings.Web.dll
+³   ³           ³   System.Text.Json.dll
+³   ³           ³   System.Windows.Extensions.dll
+³   ³           ³   
+³   ³           ÀÄÄÄruntimes
+³   ³               ÃÄÄÄunix
+³   ³               ³   ÀÄÄÄlib
+³   ³               ³       ÃÄÄÄnet6.0
+³   ³               ³       ³       Microsoft.Data.SqlClient.dll
+³   ³               ³       ³       System.Drawing.Common.dll
+³   ³               ³       ³       
+³   ³               ³       ÃÄÄÄnetcoreapp3.0
+³   ³               ³       ÀÄÄÄnetcoreapp3.1
+³   ³               ÃÄÄÄwin
+³   ³               ³   ÀÄÄÄlib
+³   ³               ³       ÃÄÄÄnet6.0
+³   ³               ³       ³       Microsoft.Data.SqlClient.dll
+³   ³               ³       ³       Microsoft.Win32.SystemEvents.dll
+³   ³               ³       ³       System.Drawing.Common.dll
+³   ³               ³       ³       System.Runtime.Caching.dll
+³   ³               ³       ³       System.Security.Cryptography.ProtectedData.dll
+³   ³               ³       ³       System.Windows.Extensions.dll
+³   ³               ³       ³       
+³   ³               ³       ÃÄÄÄnetcoreapp3.0
+³   ³               ³       ÃÄÄÄnetcoreapp3.1
+³   ³               ³       ÀÄÄÄnetstandard2.0
+³   ³               ÃÄÄÄwin-arm
+³   ³               ³   ÀÄÄÄnative
+³   ³               ³           Microsoft.Data.SqlClient.SNI.dll
+³   ³               ³           
+³   ³               ÃÄÄÄwin-arm64
+³   ³               ³   ÀÄÄÄnative
+³   ³               ³           Microsoft.Data.SqlClient.SNI.dll
+³   ³               ³           
+³   ³               ÃÄÄÄwin-x64
+³   ³               ³   ÀÄÄÄnative
+³   ³               ³           Microsoft.Data.SqlClient.SNI.dll
+³   ³               ³           
+³   ³               ÀÄÄÄwin-x86
+³   ³                   ÀÄÄÄnative
+³   ³                           Microsoft.Data.SqlClient.SNI.dll
+³   ³                           
+³   ÃÄÄÄControllers
+³   ³       AuthController.cs
+³   ³       HomeController.cs
+³   ³       ProductController.cs
+³   ³       
+³   ÃÄÄÄMiddlewares
+³   ³       ExceptionMiddleware.cs
+³   ³       
+³   ÃÄÄÄobj
+³   ³   ³   project.assets.json
+³   ³   ³   project.nuget.cache
+³   ³   ³   Restaurant.API.csproj.EntityFrameworkCore.targets
+³   ³   ³   Restaurant.API.csproj.nuget.dgspec.json
+³   ³   ³   Restaurant.API.csproj.nuget.g.props
+³   ³   ³   Restaurant.API.csproj.nuget.g.targets
+³   ³   ³   
+³   ³   ÀÄÄÄDebug
+³   ³       ÀÄÄÄnet7.0
+³   ³           ³   .NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+³   ³           ³   apphost.exe
+³   ³           ³   Restaura.5C2D4F46.Up2Date
+³   ³           ³   Restaurant.API.AssemblyInfo.cs
+³   ³           ³   Restaurant.API.AssemblyInfoInputs.cache
+³   ³           ³   Restaurant.API.assets.cache
+³   ³           ³   Restaurant.API.csproj.AssemblyReference.cache
+³   ³           ³   Restaurant.API.csproj.BuildWithSkipAnalyzers
+³   ³           ³   Restaurant.API.csproj.CoreCompileInputs.cache
+³   ³           ³   Restaurant.API.csproj.FileListAbsolute.txt
+³   ³           ³   Restaurant.API.dll
+³   ³           ³   Restaurant.API.GeneratedMSBuildEditorConfig.editorconfig
+³   ³           ³   Restaurant.API.genruntimeconfig.cache
+³   ³           ³   Restaurant.API.GlobalUsings.g.cs
+³   ³           ³   Restaurant.API.MvcApplicationPartsAssemblyInfo.cache
+³   ³           ³   Restaurant.API.MvcApplicationPartsAssemblyInfo.cs
+³   ³           ³   Restaurant.API.pdb
+³   ³           ³   Restaurant.API.sourcelink.json
+³   ³           ³   staticwebassets.build.json
+³   ³           ³   
+³   ³           ÃÄÄÄref
+³   ³           ³       Restaurant.API.dll
+³   ³           ³       
+³   ³           ÃÄÄÄrefint
+³   ³           ³       Restaurant.API.dll
+³   ³           ³       
+³   ³           ÀÄÄÄstaticwebassets
+³   ³                   msbuild.build.Restaurant.API.props
+³   ³                   msbuild.buildMultiTargeting.Restaurant.API.props
+³   ³                   msbuild.buildTransitive.Restaurant.API.props
+³   ³                   
+³   ÀÄÄÄProperties
+³           launchSettings.json
+³           
+ÃÄÄÄRestaurant.Application
+³   ³   Restaurant.Application.csproj
+³   ³   
+³   ÃÄÄÄbin
+³   ³   ÀÄÄÄDebug
+³   ³       ÀÄÄÄnet7.0
+³   ³               Restaurant.Application.deps.json
+³   ³               Restaurant.Application.dll
+³   ³               Restaurant.Application.pdb
+³   ³               Restaurant.Core.dll
+³   ³               Restaurant.Core.pdb
+³   ³               
+³   ÃÄÄÄDTOs
+³   ³       ProductDto.cs
+³   ³       
+³   ÃÄÄÄInterfaces
+³   ³       IJwtService.cs
+³   ³       IProductRepository.cs
+³   ³       IUnitOfWork.cs
+³   ³       IUserService.cs
+³   ³       
+³   ÀÄÄÄobj
+³       ³   project.assets.json
+³       ³   project.nuget.cache
+³       ³   Restaurant.Application.csproj.nuget.dgspec.json
+³       ³   Restaurant.Application.csproj.nuget.g.props
+³       ³   Restaurant.Application.csproj.nuget.g.targets
+³       ³   
+³       ÀÄÄÄDebug
+³           ÀÄÄÄnet7.0
+³               ³   .NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+³               ³   Restaura.8ED4ADA1.Up2Date
+³               ³   Restaurant.Application.AssemblyInfo.cs
+³               ³   Restaurant.Application.AssemblyInfoInputs.cache
+³               ³   Restaurant.Application.assets.cache
+³               ³   Restaurant.Application.csproj.AssemblyReference.cache
+³               ³   Restaurant.Application.csproj.BuildWithSkipAnalyzers
+³               ³   Restaurant.Application.csproj.CoreCompileInputs.cache
+³               ³   Restaurant.Application.csproj.FileListAbsolute.txt
+³               ³   Restaurant.Application.dll
+³               ³   Restaurant.Application.GeneratedMSBuildEditorConfig.editorconfig
+³               ³   Restaurant.Application.GlobalUsings.g.cs
+³               ³   Restaurant.Application.pdb
+³               ³   Restaurant.Application.sourcelink.json
+³               ³   
+³               ÃÄÄÄref
+³               ³       Restaurant.Application.dll
+³               ³       
+³               ÀÄÄÄrefint
+³                       Restaurant.Application.dll
+³                       
+ÃÄÄÄRestaurant.Core
+³   ³   Restaurant.Core.csproj
+³   ³   
+³   ÃÄÄÄbin
+³   ³   ÀÄÄÄDebug
+³   ³       ÀÄÄÄnet7.0
+³   ³               Restaurant.Core.deps.json
+³   ³               Restaurant.Core.dll
+³   ³               Restaurant.Core.pdb
+³   ³               
+³   ÃÄÄÄEntities
+³   ³       Category.cs
+³   ³       Customer.cs
+³   ³       LoginDto.cs
+³   ³       MenuItem.cs
+³   ³       Order.cs
+³   ³       OrderItem.cs
+³   ³       Product.cs
+³   ³       User.cs
+³   ³       
+³   ÀÄÄÄobj
+³       ³   project.assets.json
+³       ³   project.nuget.cache
+³       ³   Restaurant.Core.csproj.nuget.dgspec.json
+³       ³   Restaurant.Core.csproj.nuget.g.props
+³       ³   Restaurant.Core.csproj.nuget.g.targets
+³       ³   
+³       ÀÄÄÄDebug
+³           ÀÄÄÄnet7.0
+³               ³   .NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+³               ³   Restaurant.Core.AssemblyInfo.cs
+³               ³   Restaurant.Core.AssemblyInfoInputs.cache
+³               ³   Restaurant.Core.assets.cache
+³               ³   Restaurant.Core.csproj.BuildWithSkipAnalyzers
+³               ³   Restaurant.Core.csproj.CoreCompileInputs.cache
+³               ³   Restaurant.Core.csproj.FileListAbsolute.txt
+³               ³   Restaurant.Core.dll
+³               ³   Restaurant.Core.GeneratedMSBuildEditorConfig.editorconfig
+³               ³   Restaurant.Core.GlobalUsings.g.cs
+³               ³   Restaurant.Core.pdb
+³               ³   Restaurant.Core.sourcelink.json
+³               ³   
+³               ÃÄÄÄref
+³               ³       Restaurant.Core.dll
+³               ³       
+³               ÀÄÄÄrefint
+³                       Restaurant.Core.dll
+³                       
+ÃÄÄÄRestaurant.Infrastructure
+³   ³   JwtService.cs
+³   ³   Restaurant.Infrastructure.csproj
+³   ³   RestaurantDbContext.cs
+³   ³   RestaurantDbContextFactory.cs
+³   ³   
+³   ÃÄÄÄbin
+³   ³   ÀÄÄÄDebug
+³   ³       ÀÄÄÄnet7.0
+³   ³               Restaurant.Application.dll
+³   ³               Restaurant.Application.pdb
+³   ³               Restaurant.Core.dll
+³   ³               Restaurant.Core.pdb
+³   ³               Restaurant.Infrastructure.deps.json
+³   ³               Restaurant.Infrastructure.dll
+³   ³               Restaurant.Infrastructure.pdb
+³   ³               Restaurant.Infrastructure.runtimeconfig.json
+³   ³               
+³   ÃÄÄÄData
+³   ³       AppDbContext.cs
+³   ³       UnitOfWork.cs
+³   ³       
+³   ÃÄÄÄMappingProfiles
+³   ³       ProductProfile.cs
+³   ³       
+³   ÃÄÄÄMigrations
+³   ³       20250418195229_InitialCreate.cs
+³   ³       20250418195229_InitialCreate.Designer.cs
+³   ³       20250418200001_SetPricePrecision.cs
+³   ³       20250418200001_SetPricePrecision.Designer.cs
+³   ³       20250427112245_InitialCreateV2.cs
+³   ³       20250427112245_InitialCreateV2.Designer.cs
+³   ³       RestaurantDbContextModelSnapshot.cs
+³   ³       
+³   ÃÄÄÄobj
+³   ³   ³   project.assets.json
+³   ³   ³   project.nuget.cache
+³   ³   ³   Restaurant.Infrastructure.csproj.EntityFrameworkCore.targets
+³   ³   ³   Restaurant.Infrastructure.csproj.nuget.dgspec.json
+³   ³   ³   Restaurant.Infrastructure.csproj.nuget.g.props
+³   ³   ³   Restaurant.Infrastructure.csproj.nuget.g.targets
+³   ³   ³   
+³   ³   ÀÄÄÄDebug
+³   ³       ÀÄÄÄnet7.0
+³   ³           ³   .NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+³   ³           ³   Restaura.93EDDBD4.Up2Date
+³   ³           ³   Restaurant.Infrastructure.AssemblyInfo.cs
+³   ³           ³   Restaurant.Infrastructure.AssemblyInfoInputs.cache
+³   ³           ³   Restaurant.Infrastructure.assets.cache
+³   ³           ³   Restaurant.Infrastructure.csproj.AssemblyReference.cache
+³   ³           ³   Restaurant.Infrastructure.csproj.BuildWithSkipAnalyzers
+³   ³           ³   Restaurant.Infrastructure.csproj.CoreCompileInputs.cache
+³   ³           ³   Restaurant.Infrastructure.csproj.FileListAbsolute.txt
+³   ³           ³   Restaurant.Infrastructure.dll
+³   ³           ³   Restaurant.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+³   ³           ³   Restaurant.Infrastructure.genruntimeconfig.cache
+³   ³           ³   Restaurant.Infrastructure.GlobalUsings.g.cs
+³   ³           ³   Restaurant.Infrastructure.pdb
+³   ³           ³   Restaurant.Infrastructure.sourcelink.json
+³   ³           ³   
+³   ³           ÃÄÄÄref
+³   ³           ³       Restaurant.Infrastructure.dll
+³   ³           ³       
+³   ³           ÀÄÄÄrefint
+³   ³                   Restaurant.Infrastructure.dll
+³   ³                   
+³   ÃÄÄÄRepositories
+³   ³       ProductRepository.cs
+³   ³       
+³   ÀÄÄÄServices
+³           IProductService.cs
+³           ProductService.cs
+³           UserService.cs
+³           
+ÀÄÄÄRestaurantOrderingSystem
+    ³   appsettings.Development.json
+    ³   appsettings.json
+    ³   Program.cs
+    ³   RestaurantOrderingSystem.csproj
+    ³   RestaurantOrderingSystem.csproj.user
+    ³   WeatherForecast.cs
+    ³   
+    ÃÄÄÄbin
+    ³   ÀÄÄÄDebug
+    ³       ÀÄÄÄnet7.0
+    ÃÄÄÄControllers
+    ³       WeatherForecastController.cs
+    ³       
+    ÃÄÄÄobj
+    ³   ³   project.assets.json
+    ³   ³   project.nuget.cache
+    ³   ³   RestaurantOrderingSystem.csproj.nuget.dgspec.json
+    ³   ³   RestaurantOrderingSystem.csproj.nuget.g.props
+    ³   ³   RestaurantOrderingSystem.csproj.nuget.g.targets
+    ³   ³   
+    ³   ÀÄÄÄDebug
+    ³       ÀÄÄÄnet7.0
+    ³           ³   .NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+    ³           ³   RestaurantOrderingSystem.AssemblyInfo.cs
+    ³           ³   RestaurantOrderingSystem.AssemblyInfoInputs.cache
+    ³           ³   RestaurantOrderingSystem.assets.cache
+    ³           ³   RestaurantOrderingSystem.csproj.AssemblyReference.cache
+    ³           ³   RestaurantOrderingSystem.GeneratedMSBuildEditorConfig.editorconfig
+    ³           ³   RestaurantOrderingSystem.GlobalUsings.g.cs
+    ³           ³   
+    ³           ÃÄÄÄref
+    ³           ÃÄÄÄrefint
+    ³           ÀÄÄÄstaticwebassets
+    ÀÄÄÄProperties
+            launchSettings.json
+            
